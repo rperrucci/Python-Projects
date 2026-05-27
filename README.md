@@ -48,6 +48,21 @@ Organizes genres and ratings into lists for easier browsing and selection.
 Displays custom recommendations or alerts the user when no matches are found.
 
 
+Project Title:
+Pokémon Evolution Simulator
+
+Summary:
+This Python project is an interactive Pokémon training simulator where the player raises a Bulbasaur and helps it evolve through training and gym battles. As the Pokémon gains levels, it evolves into Ivysaur and eventually Venusaur while displaying detailed ASCII art for each evolution stage.
+
+Key Features:
+Interactive menu system with training, battles, and Pokémon information options.
+Randomized events for training activities and gym battle outcomes using Python’s random module.
+Evolution system that changes the Pokémon based on level progression.
+Displays custom ASCII art for Bulbasaur, Ivysaur, and Venusaur.
+Tracks player progress with level and day counters.
+Uses functions and global variables to organize gameplay mechanics and progression.
+
+
 
 
 
