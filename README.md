@@ -63,7 +63,16 @@ Tracks player progress with level and day counters.
 Uses functions and global variables to organize gameplay mechanics and progression.
 
 
+Project Title:
+Slot Machine Game
 
+Summary:
+This Python project simulates a virtual slot machine game where players use credits to spin for matching symbols and win rewards. The game includes jackpots, credit tracking, and error handling to create a fun casino-style experience.
 
-
-
+Key Features:
+Interactive slot machine gameplay with spinning symbols.
+Uses Python’s random module to generate randomized slot outcomes.
+Includes jackpots and different reward amounts based on symbol matches.
+Tracks player credits and casino profit throughout the game.
+Uses exception handling (try/except) to manage invalid input and low-credit situations.
+Features colorful slot symbols and a simple text-based casino experience.
