@@ -33,4 +33,22 @@ Uses functions, loops, and conditional statements to organize data analysis task
 Displays selected sections of the dataset using pandas DataFrames for easier viewing and comparison.
 
 
+Project Title:
+Netflix Recommendation Program
+
+Summary:
+This Python project recommends Netflix movies or TV shows based on the user’s preferences. Using a CSV dataset and the pandas library, the program filters titles by genre, type, release year, country, and rating to generate personalized recommendations.
+
+Key Featuresz;
+Interactive recommendation system using user input.
+Supports both movies and TV show recommendations.
+Filters content by genre, country, age rating, and release period (“new” or “old”).
+Uses pandas to read and analyze Netflix dataset information.
+Organizes genres and ratings into lists for easier browsing and selection.
+Displays custom recommendations or alerts the user when no matches are found.
+
+
+
+
+
 
